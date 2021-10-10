@@ -1,0 +1,13 @@
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\bin\Debug\netcoreapp3.1\miniproj new.exe
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\bin\Debug\netcoreapp3.1\miniproj new.deps.json
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\bin\Debug\netcoreapp3.1\miniproj new.runtimeconfig.json
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\bin\Debug\netcoreapp3.1\miniproj new.runtimeconfig.dev.json
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\bin\Debug\netcoreapp3.1\miniproj new.dll
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\bin\Debug\netcoreapp3.1\miniproj new.pdb
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\obj\Debug\netcoreapp3.1\miniproj new.csproj.AssemblyReference.cache
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\obj\Debug\netcoreapp3.1\miniproj new.AssemblyInfoInputs.cache
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\obj\Debug\netcoreapp3.1\miniproj new.AssemblyInfo.cs
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\obj\Debug\netcoreapp3.1\miniproj new.csproj.CoreCompileInputs.cache
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\obj\Debug\netcoreapp3.1\miniproj new.dll
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\obj\Debug\netcoreapp3.1\miniproj new.pdb
+C:\Users\TJ\Documents\PROGRAMS\miniproj new\obj\Debug\netcoreapp3.1\miniproj new.genruntimeconfig.cache
